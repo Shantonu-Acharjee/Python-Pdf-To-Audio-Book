@@ -6,6 +6,8 @@ Full Project Link : https://github.com/ShantonuAcharjee/Python-Pdf-To-Audio-Book
 pip install pyttsx3
 pip install PyPDF2
 pip install pypiwin32  # Windows only
+pip install gTTS
+pip install playsound
 
 
 ########## For Linux ##########
@@ -13,6 +15,12 @@ pip install pypiwin32  # Windows only
 sudo pip3 install pyttsx3
 sudo pip3 install PyPDF2
 sudo pip3 install libespeak1
+sudo pip3 install gTTS
+sudo pip3 install playsound
+
+or
+sudo apt-get install -y libespeak1
+
 
 
 
